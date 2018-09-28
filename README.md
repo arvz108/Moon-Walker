@@ -1,4 +1,4 @@
-# Moon-Walker
+# Moon-Walker C#
 Walker- Desktop app that displays a gif(Notably the famous Michael Jackson moonwalk, with the addition of a Micheal Jackson Beat It Instrumental) 
 
 Speed control of the moonwalk gif is available
