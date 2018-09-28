@@ -6,3 +6,6 @@ Fast,Normal,Slow
 
 Future releases will include other gif icons such as Sonic or Spongebob that can be accessed via the notification icon.
 Direction of the gif transition will also be released.
+
+![moonwalk demo](https://user-images.githubusercontent.com/9138347/46237004-aca8c180-c379-11e8-83be-0b4b0a35b4d8.png)
+**Moonwalk Demo**
